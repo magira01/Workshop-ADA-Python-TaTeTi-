@@ -14,7 +14,7 @@
 
 print("HOY JUEGAN AL TATETI PALTAS VS PASTELITOS  🥑  vs. 🧁 ")
 
-tablero = [ "-", "-", "-", 
+tablero = [ "-", "-", "-", # Esto es un vecto una lista o un array lo determinan los []
             "-", "-", "-",
             "-", "-", "-" ]
 
